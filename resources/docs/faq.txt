@@ -1,0 +1,37 @@
+1. How do I set up my profile as a stylist? 
+You can contact us using support@visitmaker.com email address. 
+2. How can I add my available hours for appointments?
+• Enter the time for a specific date by navigating to Appointments and clicking on the 
+Calendar. • For setting regular working hours across multiple days, go to Settings > Daily 
+Schedule and specify your working hours for the days you’ll be available.
+3. How do I view my daily or weekly schedule?
+Log in to your account and navigate to the "Appointments" section. 
+4. Can I manually add an appointment? 
+You can effortlessly schedule appointments by choosing your desired time slot on the 
+calendar, then selecting “New Appointment” to input the client's personal details and the 
+specific services they wish to avail. 
+5. How do I update or reschedule an appointment? 
+To update or reschedule, click on the appointment in your calendar and select 
+"Reschedule." Adjust the time, date, or other details and save the changes. The customer 
+will be notified automatically. 
+6. Can I cancel an appointment? 
+Yes, you can cancel an appointment by selecting it on your calendar and clicking "Cancel." 
+Simply click the tick mark to cancel the appointment, and the client will be notified 
+immediately. 
+7. Can I send reminders to clients? 
+VisitMaker automatically sends email and text reminders to customers 3 days and 1 day 
+before the appointment date.
+8. How do I view a client’s appointment history? 
+Navigate to the "Customers" section, select a customer, and view their appointment 
+history and any associated notes. 
+9. What should I do if I encounter an issue with my calendar?
+Contact VisitMaker support team through support@visitmaker.com.
+10. Can I add notes about a client or an appointment?
+Yes, you can add private notes to each appointment for reference: Open the appointment 
+details. Use the "Notes" section to add information. These notes are visible only to you and 
+your team. 
+11. Can I block time for personal commitments? 
+Navigate to Appointments, then click on Working Hours. From there, select Closed Hours 
+and input the desired time.
+12. How can I add the services that I offer? 
+Navigate to Services, click Add Service, and enter the details to customize your offering

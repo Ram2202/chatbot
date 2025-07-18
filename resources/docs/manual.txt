@@ -1,0 +1,40 @@
+What is VisitMaker?
+VisitMaker is an online appointment scheduling and management platform designed to help
+service-oriented businesses like salons, spas, barbers, and therapists manage their bookings and
+customer interactions efficiently.
+Who can use VisitMaker?
+VisitMaker is ideal for small to medium-sized businesses in industries like beauty, wellness,
+healthcare, photography, and more. It’s suitable for businesses with single or multiple locations.
+What is the free plan
+The Free Plan in VisitMaker gives you basic access to the platform without any cost. For more
+details https://visitmaker.com/view-feature.html, visit this page. Otherwise, reach out at
+[support@visitmaker.com].
+What features does VisitMaker provide?
+VisitMaker includes: Online appointment booking. Automated notifications and reminders.
+Client and appointment management tools. Multi-location support. Analytics and reporting. API
+integrations for custom setups.
+Does VisitMaker support multiple locations?
+Yes, VisitMaker supports multiple locations. Depending on your plan, there may be a limit on
+the number of locations. For plan details https://visitmaker.com/view-feature.html, visit this
+page. Otherwise, feel free to reach out to us at support@visitmaker.com.
+How do notifications work?
+Notifications can be sent via email or text. Paid plans include automated reminders to clients to
+reduce no-shows. Text notifications have usage limits in the Business Plan but are unlimited in
+the Enterprise Plan.
+Can I change my plan later?
+Yes, you can upgrade your plan based on your business needs.
+Can my customers book appointments directly?
+Yes, customers can book appointments online through your business’s unique booking link
+provided by VisitMaker.
+Can I access VisitMaker on mobile devices?
+Yes, VisitMaker is accessible on mobile devices through its responsive website. A dedicated app
+is also available.
+Is my data secure?
+VisitMaker uses industry-standard security measures to protect your data and that of your
+customers. For more details, review the platform’s Privacy Policy.
+What if I encounter a technical issue?
+Contact customer support through the website. Provide a detailed description of the issue for
+faster resolution.
+Can I cancel my subscription at any time?
+Our website does not have an option to cancel your subscription. If you wish to cancel,
+please feel free to contact our support team at support@visitmaker.com
